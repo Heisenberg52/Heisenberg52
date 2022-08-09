@@ -2,7 +2,12 @@
 - 👀 I’m interested in Cyber Security...
 - 🌱 I’m currently learning how to make living life beautiful...
 - 💞️ I’m looking to collaborate on game designing or podcast...
-- 📫 How to reach me (yet to create other social media pages)..
+- 📫 How to reach me (Twitter - @heisnberg0069)..
+
+
+
+
+
 
 <!---
 Heisenberg52/Heisenberg52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
